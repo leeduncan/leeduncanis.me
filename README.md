@@ -1,4 +1,4 @@
-# [leeduncanis.me](leeduncanis.me)
+# [leeduncanis.me](https://leeduncanis.me)
 
 Personal website of Lee Duncan, used as a place to put my links and keep an updated CV ready to go, because I hate LinkedIn.
 
