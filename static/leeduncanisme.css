@@ -1,0 +1,49 @@
+main {
+    padding: 50px;
+    margin: 50px auto;
+    font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(243, 241, 241);
+    width: 50vw;
+    left: 50%;
+    border-radius: 10px;
+    border: 1px solid rgb(206, 206, 206);
+}
+
+#portrait {
+    margin: 20px;
+    border-radius: 10px;
+    vertical-align: middle;
+    float: right;
+    max-width: 200px;
+}
+
+main h1 {
+    padding-top: 10px;
+}
+
+main a {
+    color: red;
+}
+
+main a:visited {
+    color: rgb(185, 0, 0);
+}
+
+#inline {
+    display: inline;
+    vertical-align: middle;
+}
+
+footer {
+    padding-top: 30px; 
+}
+
+#links {
+    float: left;
+    margin: 50px;
+    padding: 10px;
+    font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(243, 241, 241);
+    border-radius: 10px;
+    border: 1px solid rgb(206, 206, 206);
+}
